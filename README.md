@@ -247,13 +247,3 @@ docker run -p 8000:8000 multimodal-api
 
 ---
 
-## Future Improvements
-
-- Text-to-Speech support
-- Image Generation
-- Streaming responses
-- Authentication
-- Cloud deployment
-
----
-
